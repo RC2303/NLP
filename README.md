@@ -27,5 +27,29 @@ The goal of this project is to predict whether Amazon Fine Food reviews are posi
 
 ## Analysis
 
-In this section, we present visualizations, results, and outputs obtained from our analysis.
+In this section, we present visualizations, results, and outputs obtained from our analysis:
+### Input Data
+In this image, I want to indicate that these are the columns of the CSV file: 
+
+![CSV File Columns](https://github.com/RC2303/NLP/blob/main/Images/Screenshot%202024-02-26%20161711.png)
+
+The feautures of the previous image, there are available in the CSV file itself: 
+
+![CSV File](https://github.com/RC2303/NLP/blob/main/Images/Screenshot%202024-02-28%20142257.png)
+
+
+In this reviews image shows that there are available more good reviews: 
+
+![Reviews](https://github.com/RC2303/NLP/blob/main/Images/Screenshot%202024-05-16%20131738.png)
+
+### Data used
+After completing all the text preprocessing and text vectorization steps, the data is now ready to be used for model training.
+
+![Reviews](https://github.com/RC2303/NLP/blob/main/Images/Screenshot%202024-05-16%20131837.png)
+
+### Model: WORD2VEC
+
+### Model: BERT
+
+### Conclusion:
 
