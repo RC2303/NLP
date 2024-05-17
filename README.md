@@ -48,8 +48,15 @@ After completing all the text preprocessing and text vectorization steps, the da
 ![Reviews](https://github.com/RC2303/NLP/blob/main/Images/Screenshot%202024-05-16%20131837.png)
 
 ### Model: WORD2VEC
+Word2Vec is a technique for natural language processing that transforms words into vector representations. These vectors capture semantic meanings and relationships between words based on their context in a text corpus.
+I implemented Word2Vec to convert text data into vectors and used these vectors as features for a logistic regression model.
 
+![Reviews](https://github.com/RC2303/NLP/blob/main/Images/Screenshot%202024-05-17%20101133.png)
 ### Model: BERT
+BERT (Bidirectional Encoder Representations from Transformers) is a state-of-the-art NLP model developed by Google that generates contextualized word embeddings by considering the entire context of a word in a sentence.
 
-### Conclusion:
+### Comparison
+BERT often achieves better results than Word2Vec because it is pre-trained on a massive corpus of text, allowing it to understand a wide range of words and contexts. This extensive pre-training enables BERT to capture context more effectively and produce more accurate word representations.
+
+![Reviews](https://github.com/RC2303/NLP/blob/main/Images/Screenshot%202024-05-17%20100146.png)
 
